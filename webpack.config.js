@@ -24,6 +24,7 @@ const config = {
     // the filename template for entry chunks
   },
   module: {
+    
     rules: [
       {
         test: /\.s[ca]ss$/,
